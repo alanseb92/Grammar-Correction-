@@ -1,1 +1,1 @@
-# Grammar-Correction-
+So this is how we can use Python to correct grammatical mistakes from any piece of text. The Gingerit library in Python can be used to enhance your writing by correcting all the mistakes in a few lines of code
